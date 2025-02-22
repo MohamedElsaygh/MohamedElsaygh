@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🚀 Building AI-Powered Solutions & Brands<br><br>👨‍🎓 MSc in AI & Adaptive Systems | Sussex University<br>📈 Founder | AI Entrepreneur | Content Creator<br><br>👯 Open to collaborating on AI-driven projects that push boundaries<br>🔍 Seeking strategic opportunities (Internship/Part-time/Full-time) in AI, Machine Learning & Data Science to drive real-world impact<br>💡 Let's talk AI, ML, Deep Learning, Web/App Development & Data Science<br>⚡ Passionate about AI, Business, and Personal Branding—leveraging tech for innovation and growth<br>📫 Connect via Email & LinkedIn (Links Below)
+🚀 Building AI-Powered Solutions & Brands<br><br>👨‍🎓 MSc in AI & Adaptive Systems | Sussex University<br>📈 AI Entrepreneur to be | Content Creator<br><br>👯 Open to collaborating on AI-driven projects that push boundaries<br>🔍 Seeking strategic opportunities (Internship/Part-time/Full-time) in AI, Machine Learning & Data Science to drive real-world impact<br>💡 Let's talk AI, ML, Deep Learning, Web/App Development & Data Science<br>⚡ Passionate about AI, Business, and Personal Branding—leveraging tech for innovation and growth<br>📫 Connect via Email & LinkedIn (Links Below)
 
 
 ## 🌐 Socials:
