@@ -1,6 +1,6 @@
-## <h1>Hey there <img src="https://github.com/Ahmed-Sameh-MM/MohamedElsaygh/blob/main/waving_hand.gif" width="45">, I'm Mohamed Elsaygh</h1>
+## <h1>Hey there <img src="https://github.com/MohamedElsaygh/blob/main/waving_hand.gif" width="45">, I'm Mohamed Elsaygh</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%22AI+Disruptor+%7C+Entrepreneur+%7C+Content+Creator%22;%22Building+AI.+Building+Brands.+Building+the+Future.%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%22AI+Entrepreneur+%7C+Content+Creator%22;%22Building+AI%2C+Building+Brands%22;%22Building+the+Future%22)](https://git.io/typing-svg))
 
 # 💫 About Me:
 🚀 AI Entrepreneur | MSc AI & Adaptive Systems | AI & Business Strategist | Building AI-Powered Solutions & Brands<br><br>👨‍🎓 MSc AI & Adaptive Systems | Sussex University<br>📈 AI Entrepreneur in the Making | Content Creator<br><br>👯 Open to collaborations on cutting-edge AI projects<br>🔍 Exploring strategic opportunities (Internship/Part-time/Full-time) in AI, ML & Data Science to drive real-world impact<br>💡 Let’s talk AI, Machine Learning, Deep Learning, Web/App Development & Data Science<br>⚡ Passionate about AI, Business & Personal Branding—leveraging tech for growth & innovation<br>📫 Connect via Email & LinkedIn (Links Below)
